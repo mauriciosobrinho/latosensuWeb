@@ -1,1 +1,2 @@
 # Repositórios de códigos desenvolvidos em aula durante o curso de especialização Lato Sensu em Desenvolvimento de Sofware para Web realizado no DC-UFSCar
+# Repositórios de códigos desenvolvidos na linguagem groovy utilizando o framework grails, implementados em aula e em atividades extras, ao longo do curso de especialização Lato Sensu em Desenvolvimento de Sofware para Web, realizado no DC-UFSCar
